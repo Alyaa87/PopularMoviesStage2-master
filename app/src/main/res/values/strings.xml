@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PopularMoviesStage2</string>
+    <string name="most_popular">Most popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="overview">overview</string>
+    <string name="reload">Reload</string>
+    <string name="favorites">Favorites</string>
+    <string name="no_fav_movies">No Favorite Movies in the List</string>
+    <string name="title_activity_movie_detail">MovieDetailActivity</string>
+    <string name="watch_trailer">watch trailer</string>
+    <string name="reviews">Reviews</string>
+</resources>
